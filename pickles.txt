@@ -1,3 +1,7 @@
 This is the first file I'm adding to my hello-world repository in github. This is originally on the master branch.
 20 days later I'm updating this repos with this line in pickles.txt.
-Branch: Master; updating this file on my local repository; there should be merge conflicts with github version
+
+Branch: master; updating this file on my local repository; there should be merge conflicts with github version
+
+Branch: master updating this file on github; should be conflicts with local version.
+Now merge has been resolved.
